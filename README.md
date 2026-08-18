@@ -1,0 +1,1 @@
+calculator for Compound interest 
